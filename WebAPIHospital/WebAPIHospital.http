@@ -1,0 +1,6 @@
+@WebAPIHospital_HostAddress = http://localhost:5132
+
+GET {{WebAPIHospital_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

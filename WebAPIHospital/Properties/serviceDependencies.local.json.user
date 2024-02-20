@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-01-14T03:48:52.9169986Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2024-01-14T03:48:29.4251098Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "a874ef88-5899-4cc1-bbdd-e07bae4f84c0"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "WebAPIHospital20240113231847ResourceGroup"
+    }
+  }
+}
